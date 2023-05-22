@@ -14,7 +14,7 @@ import java.nio.charset.StandardCharsets;
 
 public class Handler implements RequestHandler<String, String> {
 
-    private final String nomeBucket = "bucket-parcas-parceiros";
+    private final String nomeBucket = "nomeDoBucket";
 
 
     @Override
